@@ -1,4 +1,5 @@
 # 🧠 Algorithms & Data Structures
+## CSI323- Algorithms Homework by Keletso Joy Ditlhotlhole 
 
 A collection of **Java algorithm exercises and homework** completed during my Computer Science studies at university. 🎓💻
 
